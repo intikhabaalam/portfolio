@@ -15,7 +15,6 @@ This portfolio showcases my projects, skills, and development experience.
 It includes:
 
 - Interactive UI with smooth animations
-- Dark/Light mode toggle
 - Responsive design for mobile, tablet, and desktop
 - Projects section with live demos and GitHub links
 
@@ -25,7 +24,6 @@ It includes:
 - **Frontend:** ReactJS, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js, MongoDB (if applicable)
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- **Design:** Figma, Adobe XD (for wireframes)
 
 ---
 
@@ -47,17 +45,9 @@ portfolio/
 ---
 
 ## 🎨 Features
-- **Dark / Light Mode toggle**
 - **Responsive design**: Works perfectly on all devices
 - **Project showcase**: Links to live projects and GitHub repositories
 - **Animations**: Smooth hover effects, transitions, and scroll animations
-
----
-
-## 📸 Screenshots
-![Home Page](path-to-homepage-screenshot.png)  
-![Projects Page](path-to-projects-screenshot.png)  
-![Contact Page](path-to-contact-screenshot.png)  
 
 ---
 
@@ -79,12 +69,9 @@ Install dependencies:
 
 npm install
 
-Start development server:
+start dev server:
 
-npm start
-
-Open http://localhost:3000 in your browser
-
+npm run dev
 
 # React + Vite
 
